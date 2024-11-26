@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Enock!  
 
-<!--
-**Enock02333/Enock02333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI researcher and developer passionate about solving real-world problems with machine learning and computer vision. My work focuses on:  
+- **Computer Vision**: Creating efficient models for object detection and tracking.  
+- **Natural Language Processing**: Integrating language models into broader AI systems.  
 
-Here are some ideas to get you started:
+### My Featured Projects  
+- 🧠 [Student Behavior Detection](https://github.com/Enock02333/student-behavior-detection): A YOLO-based object detection model for classroom behavior analysis.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills  
+- **Languages**: Python, SQL, Java  
+- **Frameworks**: PyTorch, TensorFlow, OpenCV  
+- **Tools**: Git, Docker, Linux  
+
+### Contact Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enock-blue)](https://www.linkedin.com/in/enock-isack-517728223/)  
+📫 Email: enockisack1@gmail.com  
