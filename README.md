@@ -5,7 +5,8 @@ I'm an AI researcher and developer passionate about solving real-world problems 
 - **Natural Language Processing**: Integrating language models into broader AI systems.  
 
 ### My Featured Projects  
-- 🧠 [Student Behavior Detection](https://github.com/Enock02333/student-behavior-detection): A YOLO-based object detection model for classroom behavior analysis.   
+- 🧠 [Student Behavior Detection](https://github.com/Enock02333/student-behavior-detection): A YOLO-based object detection model for classroom behavior analysis.
+- ⚽ [Football Video Analysis](https://github.com/Enock02333/football-video-analysis): A comprehensive framework for analyzing football game videos, including player detection and tracking, event recognition, and tactical analysis.     
 
 ### Skills  
 - **Languages**: Python, SQL, Java  
