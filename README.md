@@ -6,7 +6,8 @@ I'm an AI researcher and developer passionate about solving real-world problems 
 
 ### My Featured Projects  
 - 🧠 [Student Behavior Detection](https://github.com/Enock02333/student-behavior-detection): A YOLO-based object detection model for classroom behavior analysis.
-- ⚽ [Football Video Analysis](https://github.com/Enock02333/football-video-analysis): A comprehensive framework for analyzing football game videos, including player detection and tracking, event recognition, and tactical analysis.     
+- ⚽ [Football Video Analysis](https://github.com/Enock02333/football-video-analysis): A comprehensive framework for analyzing football game videos, including player detection and tracking, event recognition, and tactical analysis.
+- 👗 [Outfit Color Understanding with Segmentation & Calibration](https://github.com/Enock02333/Outfit-Color-Understanding-with-Segmentation-Calibration-XKCD-Naming): A fashion-focused project using YOLOv8-Segmentation and XKCD-based color calibration to detect outfits, extract regions, and identify dominant colors with human-readable naming.     
 
 ### Skills  
 - **Languages**: Python, SQL, Java  
