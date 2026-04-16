@@ -3,9 +3,9 @@
 I am an AI researcher with broad interests across computer vision, machine learning, and image processing, complemented by experience in pattern recognition, large‑scale data analytics, and natural language processing. My work focuses on understanding and learning meaningful representations from data, spanning visual, textual, and multimodal domains, with an emphasis on building robust and generalizable AI systems.
 
 ### Research & Technical Interests
-- **Computer Vision**: Representation learning, object detection, tracking, and segmentation  
-- **Self-Supervised Learning**: Contrastive learning, transferable visual representations  
-- **Applied AI Systems**: End-to-end pipelines for real-world video and image analysis  
+- **Computer Vision & Image Processing**: Representation learning, segmentation, object detection, tracking, and visual feature extraction  
+- **Machine Learning & Pattern Recognition**: Statistical learning, discriminative representations, data‑efficient and generalizable models  
+- **LLM, NLP & Data Analytics**: Language modeling, multimodal learning, large‑scale data analysis, and intelligent AI systems
 
 ---
 
