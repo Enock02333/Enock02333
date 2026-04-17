@@ -39,3 +39,5 @@ I am an AI researcher with broad interests across computer vision, machine learn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Enock-blue)](https://www.linkedin.com/in/enock-isack-517728223/)  
 📧 Email: enockisack1@gmail.com
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Enock02333.Enock02333)
