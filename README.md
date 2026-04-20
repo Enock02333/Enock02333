@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Enock!
+# Hi there 👋, I'm Isack!
 
 I am an AI researcher with broad interests across computer vision, machine learning, and image processing, complemented by experience in pattern recognition, large‑scale data analytics, and natural language processing. My work focuses on understanding and learning meaningful representations from data, spanning visual, textual, and multimodal domains, with an emphasis on building robust and generalizable AI systems.
 
@@ -38,6 +38,6 @@ I am an AI researcher with broad interests across computer vision, machine learn
 ### 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Enock-blue)](https://www.linkedin.com/in/enock-isack-517728223/)  
-📧 Email: enockisack1@gmail.com
+📧 Email: enockisack.ee14@nycu.edu.tw
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Enock02333.Enock02333)
